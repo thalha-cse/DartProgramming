@@ -54,5 +54,4 @@ Learn Dart Programming, its basics and Fundamentals from scratch.
         - Growable List
     - Set and HashSet 
     - Map and HashMap 
-11. Callable Classes 
-12. Conclusion 
+11. Callable Classes
